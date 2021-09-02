@@ -2,7 +2,6 @@
 
 > Understanding how black-box models make predictions, and what they see in the pandemic.
 
-https://arxiv.org/abs/2010.02006
 
 ![](doc/video.gif)
 
